@@ -8,13 +8,13 @@
         },
         {
             "respository": "Employee Management System",
-            "image": "../../components/images/EMS.png", 
+            "image": "/images/EMS.png", 
             "description": "An application the harnesses Node.js and MySQL to manage a businesses Employees, Departments, Roles and Budget", 
             "link": "https://github.com/jlukewilliams94/EmployeeTrackerSQL"   
         },
         {
             "respository": "Nerd Book",
-            "image": "../components/images/Nerd_Book.png", 
+            "image": "/images/Nerd_Book.png", 
             "description": "Nerd_Book provides Coding Camp Students a platform to share who they are and their talent to other student coders", 
             "link": "https://github.com/apatel922/Project2"
         },
