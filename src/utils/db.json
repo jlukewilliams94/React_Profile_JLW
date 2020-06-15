@@ -2,7 +2,7 @@
     "results": [
         {
             "respository": "Eat Da Burger",
-            "image": "./images/EatDaBurger.png", 
+            "image": "/images/EatDaBurger.png", 
             "description": "A dynamic application that uses mySql, Express and Express Handlebars", 
             "link": "https://github.com/jlukewilliams94/EatDaBurger"
         },
