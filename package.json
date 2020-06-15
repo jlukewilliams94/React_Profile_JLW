@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jlukewilliams94.github.io/React_Profile_JLW/home",
+  "homepage": "https://jlukewilliams94.github.io/React_Profile_JLW/",
   "name": "react-profile",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d public",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
