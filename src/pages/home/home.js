@@ -1,7 +1,7 @@
 import React from "react";
 import Overlay from "../../components/overlay/overlay.js"
 import "./home.css"
-import ProfilePic from "../../components/images/lukewilliamsprofilepic.png"
+import ProfilePic from "../../components/profilepic/lukewilliamsprofilepic.png"
 
 
 const Home = () => {
