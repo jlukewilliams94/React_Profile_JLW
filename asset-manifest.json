@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_Profile_JLW/static/css/main.09b6907d.chunk.css",
+    "main.js": "/React_Profile_JLW/static/js/main.86c559e6.chunk.js",
+    "main.js.map": "/React_Profile_JLW/static/js/main.86c559e6.chunk.js.map",
+    "runtime-main.js": "/React_Profile_JLW/static/js/runtime-main.568723d9.js",
+    "runtime-main.js.map": "/React_Profile_JLW/static/js/runtime-main.568723d9.js.map",
+    "static/js/2.4630743a.chunk.js": "/React_Profile_JLW/static/js/2.4630743a.chunk.js",
+    "static/js/2.4630743a.chunk.js.map": "/React_Profile_JLW/static/js/2.4630743a.chunk.js.map",
+    "index.html": "/React_Profile_JLW/index.html",
+    "precache-manifest.6b4789dbaf7663a57f841fed8dc6f3fe.js": "/React_Profile_JLW/precache-manifest.6b4789dbaf7663a57f841fed8dc6f3fe.js",
+    "service-worker.js": "/React_Profile_JLW/service-worker.js",
+    "static/css/main.09b6907d.chunk.css.map": "/React_Profile_JLW/static/css/main.09b6907d.chunk.css.map",
+    "static/js/2.4630743a.chunk.js.LICENSE.txt": "/React_Profile_JLW/static/js/2.4630743a.chunk.js.LICENSE.txt",
+    "static/media/lukewilliams2020.pdf": "/React_Profile_JLW/static/media/lukewilliams2020.63bc732d.pdf",
+    "static/media/lukewilliamsprofilepic.png": "/React_Profile_JLW/static/media/lukewilliamsprofilepic.96a15d54.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.568723d9.js",
+    "static/js/2.4630743a.chunk.js",
+    "static/css/main.09b6907d.chunk.css",
+    "static/js/main.86c559e6.chunk.js"
+  ]
+}
