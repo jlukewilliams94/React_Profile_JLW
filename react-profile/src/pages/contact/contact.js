@@ -35,11 +35,7 @@ function Contact () {
             </div>
 
         </header>
-
-
     )
-
-
 }
 
 export default Contact;

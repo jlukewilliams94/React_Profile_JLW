@@ -1,6 +1,6 @@
 import React from "react"
 import Resume from "../resume/lukewilliams2020.pdf"
-//import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "./navbar.css"
 
 function Navbar() {
@@ -13,13 +13,40 @@ function Navbar() {
             <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
                 <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li className="nav-item active">
-                        <a className="nav-link" href="#" title="About Me">About Me <span className="sr-only">(current)</span></a>
+                    <Link
+                        to="/"
+                        className={
+                            window.location.pathname === "/" || window.location.pathname === "/home"
+                            ? "nav-link active"
+                            : "nav-link"
+                        }
+                    >
+                    Home
+                    </Link>
                     </li>
                     <li className="nav-item active">
-                        <a className="nav-link" href="#" title="Contact">Contact</a>
+                    <Link
+                        to="/contact"
+                        className={
+                            window.location.pathname === "/contact" || window.location.pathname === "/contact"
+                            ? "nav-link active"
+                            : "nav-link"
+                        }
+                    >
+                    Contact
+                    </Link>
                     </li>
                     <li className="nav-item active">
-                        <a className="nav-link" href="#" title="Portfolio">Portfolio</a>
+                    <Link
+                        to="/portfolio"
+                        className={
+                            window.location.pathname === "/portfolio" || window.location.pathname === "/portfolio"
+                            ? "nav-link active"
+                            : "nav-link"
+                        }
+                    >
+                    Portfolio
+                    </Link>
                     </li>
                      <li className="nav-item active">
                         <a className="nav-link" href="https://www.linkedin.com/in/jlukewilliams94">LinkedIn</a>
