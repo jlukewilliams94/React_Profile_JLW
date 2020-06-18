@@ -14,7 +14,7 @@ const Home = () => {
                 </div>
                 <div className="container about-me-container">
                     <img src={ProfilePic} alt="luke williams profile pic" title="Luke Williams" className="about-me-profile-img"></img>
-                    <p className="universal-font"> Coder that was born and raised in Wales, UK. Currently live in Charlotte, NC and attend University of North Carolina-Charlotte Coding Camp. Co-Founder at <a href="https://vigilmobile.com/">Vigil</a></p>
+                    <p className="universal-font"> Coder that was born and raised in Wales, UK. Currently live in Charlotte, NC and attend University of North Carolina-Charlotte Coding Camp. <br>Contact: luke.williams@vigilmobile.com</br><br>Co-Founder and Head of Applicatin Development at <a href="https://vigilmobile.com/">Vigil</a></br></p>
                 </div>
             </div>
         </header>
