@@ -9,7 +9,7 @@ function Navbar() {
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
-            <a className="navbar-brand" href="index.html" title="Home">J.Luke Williams</a>
+            <a className="navbar-brand" title="Home">J.Luke Williams</a>
             <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
                 <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li className="nav-item active">
