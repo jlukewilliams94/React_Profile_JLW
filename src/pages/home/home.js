@@ -12,9 +12,11 @@ const Home = () => {
                 <div className="jumtron text-center">
                 <h1 className="jumtron-title">About Me</h1>
                 </div>
-                <div className="container about-me-container">
+                <div className="container about-me-container universal-font">
                     <img src={ProfilePic} alt="luke williams profile pic" title="Luke Williams" className="about-me-profile-img"></img>
-                    <p className="universal-font"> Coder that was born and raised in Wales, UK. Currently live in Charlotte, NC and attend University of North Carolina-Charlotte Coding Camp. <br>Contact: luke.williams@vigilmobile.com</br><br>Co-Founder and Head of Applicatin Development at <a href="https://vigilmobile.com/">Vigil</a></br></p>
+                    <p> Coder that was born and raised in Wales, UK. Currently live in Charlotte, NC and attend University of North Carolina-Charlotte Coding Camp.</p>
+                    <p>Contact: luke.williams@vigilmobile.com </p>
+                    <p> Co-Founder and Head of Applicatin Development at <a href="https://vigilmobile.com/">Vigil</a></p>
                 </div>
             </div>
         </header>
